@@ -1,0 +1,14 @@
+C:\Users\navvi\source\repos\Retrieved Assessment1\Testing\obj\Debug\FunctionTest1.csprojAssemblyReference.cache
+C:\Users\navvi\source\repos\Retrieved Assessment1\Testing\obj\Debug\FunctionTest1.csproj.CoreCompileInputs.cache
+C:\Users\navvi\source\repos\Retrieved Assessment1\Testing\bin\Debug\Testing.dll
+C:\Users\navvi\source\repos\Retrieved Assessment1\Testing\bin\Debug\Testing.pdb
+C:\Users\navvi\source\repos\Retrieved Assessment1\Testing\bin\Debug\CompleteAssement1.exe
+C:\Users\navvi\source\repos\Retrieved Assessment1\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\navvi\source\repos\Retrieved Assessment1\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\navvi\source\repos\Retrieved Assessment1\Testing\bin\Debug\CompleteAssement1.pdb
+C:\Users\navvi\source\repos\Retrieved Assessment1\Testing\bin\Debug\CompleteAssement1.exe.config
+C:\Users\navvi\source\repos\Retrieved Assessment1\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\navvi\source\repos\Retrieved Assessment1\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\navvi\source\repos\Retrieved Assessment1\Testing\obj\Debug\FunctionTest1.csproj.CopyComplete
+C:\Users\navvi\source\repos\Retrieved Assessment1\Testing\obj\Debug\Testing.dll
+C:\Users\navvi\source\repos\Retrieved Assessment1\Testing\obj\Debug\Testing.pdb

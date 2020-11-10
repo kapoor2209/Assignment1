@@ -1,0 +1,28 @@
+C:\Users\navvi\source\repos\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.csprojAssemblyReference.cache
+C:\Users\navvi\source\repos\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.MainForm.resources
+C:\Users\navvi\source\repos\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.Properties.Resources.resources
+C:\Users\navvi\source\repos\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.csproj.GenerateResource.cache
+C:\Users\navvi\source\repos\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.csproj.CoreCompileInputs.cache
+C:\Users\navvi\source\repos\Retrieved Assessment1\CompleteAssement1\bin\Debug\CompleteAssement1.exe.config
+C:\Users\navvi\source\repos\Retrieved Assessment1\CompleteAssement1\bin\Debug\CompleteAssement1.exe
+C:\Users\navvi\source\repos\Retrieved Assessment1\CompleteAssement1\bin\Debug\CompleteAssement1.pdb
+C:\Users\navvi\source\repos\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.exe
+C:\Users\navvi\source\repos\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.pdb
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\Nav assesment 1\Retrieved Assessment1\CompleteAssement1\bin\Debug\CompleteAssement1.exe.config
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\Nav assesment 1\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.exe
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\Nav assesment 1\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.pdb
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\Nav assesment 1\Retrieved Assessment1\CompleteAssement1\bin\Debug\CompleteAssement1.exe
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\Nav assesment 1\Retrieved Assessment1\CompleteAssement1\bin\Debug\CompleteAssement1.pdb
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\Nav assesment 1\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.csprojResolveAssemblyReference.cache
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\Nav assesment 1\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.MainForm.resources
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\Nav assesment 1\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.Properties.Resources.resources
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\Nav assesment 1\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.csproj.GenerateResource.Cache
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\game new\Retrieved Assessment1\CompleteAssement1\bin\Debug\CompleteAssement1.exe.config
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\game new\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.exe
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\game new\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.pdb
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\game new\Retrieved Assessment1\CompleteAssement1\bin\Debug\CompleteAssement1.exe
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\game new\Retrieved Assessment1\CompleteAssement1\bin\Debug\CompleteAssement1.pdb
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\game new\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.csprojResolveAssemblyReference.cache
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\game new\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.MainForm.resources
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\game new\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.Properties.Resources.resources
+C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\game new\Retrieved Assessment1\CompleteAssement1\obj\Debug\CompleteAssement1.csproj.GenerateResource.Cache
